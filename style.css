@@ -1,0 +1,123 @@
+td {
+  border: 1px solid;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+li {
+  font-family: "Roboto Condensed", sans-serif;
+  padding-bottom: 15px;
+  padding-top: 5px;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Fredoka", sans-serif;
+  background-color: cornflowerblue;
+  border: 5px solid lightskyblue;
+  opacity: 1;
+  font-variant: small-caps;
+  padding-left: 15px;
+  padding-right: 15;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Fredoka", sans-serif;
+}
+
+hr {
+  border: 5px solid crimson;
+  border-style: dotted;
+}
+
+html {
+  background: cornflowerblue;
+}
+
+body {
+  background-color: white;
+  padding: 50px 50px;
+  border: 15px solid lightgreen;
+  border-radius: 15px;
+  border-style: double outset;
+  margin: auto;
+  width: 700px;
+}
+
+html {
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.calc {
+  text-align: center;
+}
+
+a :hover {
+  border: 3px solid crimson;
+  border-radius: 15px;
+}
+
+button {
+  background-color: darkviolet;
+  color: white;
+  width: 150px;
+}
+
+button:hover {
+  transition: 1s;
+  background-color: deeppink;
+  color: black;
+}
+
+img {
+  width: 500px;
+}
+
+input {
+  margin-bottom: 30px;
+}
+
+#slope-calc {
+  text-align: center;
+}
+
+#pythag-calc {
+  text-align: center;
+}
+
+#yint-calc {
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+  width: 200px;
+  border: 1px solid;
+}
+
+#formulas {
+  text-align: center;
+}
+
+#info {
+  background-color: black;
+  border: 2px solid darkgray;
+  border-style: outset;
+  padding: 5px 5px 5px 5px;
+}
+
+#infolink {
+  color: lightgreen;
+}
+
+#infolink:hover {
+  background-color: grey;
+  color: green;
+  transition: 1s;
+}
+
+#info:hover {
+  background-color: grey;
+  transition: 1s;
+}
